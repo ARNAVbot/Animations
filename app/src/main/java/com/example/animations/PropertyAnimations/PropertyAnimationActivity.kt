@@ -13,11 +13,11 @@ import com.example.animations.R
 /**
 //NOTE: https://guides.codepath.com/android/animations
 //NOTE : View property animation is faster than ObjectAnimator
+// All the different properties that can be animated are found here : https://developer.android.com/guide/topics/graphics/prop-animation.html#views
  **/
 
 class PropertyAnimationActivity : AppCompatActivity() {
 
-    // All the different properties that can be animated are found here : https://developer.android.com/guide/topics/graphics/prop-animation.html#views
 
     private lateinit var fadeOutButton: AppCompatButton
     private lateinit var shrinkAndExpandButton: AppCompatButton
