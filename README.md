@@ -18,3 +18,10 @@ All the different properties that can be animated using Property animation are f
 2. https://medium.com/techshots/vector-drawable-animation-e553790c8be4
 3. https://guides.codepath.com/android/animations
 4. https://developer.android.com/guide/topics/graphics/drawable-animation
+5. https://developer.android.com/guide/topics/graphics/prop-animation.html#views
+
+## Future scope
+1. Animate layout changes to ViewGroup objects -> Refer https://developer.android.com/guide/topics/graphics/prop-animation.html#views and https://guides.codepath.com/android/animations#layout-animations
+2. Animate view state changes using StateListAnimator -> Refer https://developer.android.com/guide/topics/graphics/prop-animation.html#views
+3. Activity transition -> Refer https://guides.codepath.com/android/animations#activity-transitions
+4. Fragment transitions -> Refer https://guides.codepath.com/android/animations#fragment-transitions
