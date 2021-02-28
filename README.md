@@ -25,3 +25,4 @@ All the different properties that can be animated using Property animation are f
 2. Animate view state changes using StateListAnimator -> Refer https://developer.android.com/guide/topics/graphics/prop-animation.html#views
 3. Activity transition -> Refer https://guides.codepath.com/android/animations#activity-transitions
 4. Fragment transitions -> Refer https://guides.codepath.com/android/animations#fragment-transitions
+5. Motion layout -> Refer https://www.youtube.com/watch?v=M1jE3W3_NTQ&list=PLWz5rJ2EKKc_PEOEHNBEyy6tPX1EgtUw2&index=1
